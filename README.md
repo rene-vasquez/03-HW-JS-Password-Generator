@@ -11,3 +11,7 @@ If the user included a character that correlated with one of our arrays it would
 If that variable was true then it would add that array to our empty "choiceCharacters" array to generate a password from
 
 From then it takes the length input from the passwordLength prompt and generates a password using that number of characters.
+
+Link: https://rene-vasquez.github.io/03-HW-JS-Password-Generator/
+
+![Password Generator](./Assets/03-javascript-homework-demo.png)
